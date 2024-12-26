@@ -1,0 +1,26 @@
+# Images and media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.ico
+*.svg
+img/
+
+# System files
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies
+node_modules/
+*.log
